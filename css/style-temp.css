@@ -1,0 +1,185 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+html
+{
+    background-color: gray;
+}
+
+header
+{
+
+}
+.Title
+{
+    width: 271px;
+    height: 42px;
+
+
+    color: #778A50;
+    font-family: 'Arial Black';
+    font-size: 44px;
+}
+
+
+body
+{
+    background-color: #EDF2C5;
+    width: 1264px;
+    height: 880px;
+    margin-left: 160px;
+    margin-right: 160px;
+
+
+}
+
+
+
+
+#content
+{
+    /* margin-top: 53px; */
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+
+
+.Login-Join a
+{
+    border: 1px;
+    color: #75874F;
+    background-color: #EDF2C5;
+}
+
+.nave-site
+{
+    display: block;
+    background-color: #889C5B;
+}
+
+.nave-site li
+{
+    background-color: white;
+    margin-left: 10px;
+    list-style: none;
+    float: left;
+}
+
+
+.top-image-block
+{
+    width: 940px;
+    height: 448px;
+
+    margin-bottom: 45px;
+}
+
+.vegetables-block
+{
+    margin: 15 auto 35 0;
+    /* margin-left: 100px;
+    margin-right: 52px;
+    margin-bottom: 34px; */
+    /* width: 50%; */
+    float: left;
+}
+.vegetables-title
+{
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 31px;
+
+    margin-bottom: 15px;
+    
+    display: block;
+    font-family: 'Arial Black';
+    font-size: 16px;
+    color: #EDF2C5;
+    background-color: #889C5B;
+}
+.vegetables-block img
+{
+    margin-right: 12px;
+}
+.vegetables-block .corn
+{
+    margin-right: 0px;
+}
+
+
+.contact-block
+{
+    margin: 15 auto 35 0;
+    float: right;
+}
+.contact-title
+{   
+    padding-top: 16px;
+    padding-bottom: 16px;
+
+    margin-bottom: 15px;
+    
+    display: block;
+    font-family: 'Arial Black';
+    font-size: 16px;
+    color: #EDF2C5;
+    background-color: #889C5B;
+}
+.contact-title p
+{
+
+    padding-left: 31px;
+    font-family: 'Arial Black';
+    font-size: 16px;
+    color: #EDF2C5;
+}
+.contact-text
+{
+    background-color: #F7FBDA;
+    width: 445px;
+    height: 140px;
+
+    
+    
+}
+.contact-text p
+{
+    color: #778A50;
+    font-family: 'ArialMT Regular';
+    font-size: 10px;
+}
+
+.contact-text hr
+{
+    width: 414px;
+    height: 1px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.line
+{
+    width: 414px;
+    height: 1.33px;
+    background-color: #7D7D7D;
+
+    
+    /* border-bottom: 5px #7D7D7D; */
+}
+footer
+{
+    width: 1264px;
+    height: 60px;
+    font: 'Arial Black' 12px;
+    color: #EDF2C5;
+    background-color: #889C5B;
+    text-align: center;
+}
+
+.clear
+{
+    clear: both;
+}
